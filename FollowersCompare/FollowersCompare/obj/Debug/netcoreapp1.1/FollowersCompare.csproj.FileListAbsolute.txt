@@ -1,0 +1,9 @@
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\bin\Debug\netcoreapp1.1\FollowersCompare.deps.json
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\bin\Debug\netcoreapp1.1\FollowersCompare.runtimeconfig.json
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\bin\Debug\netcoreapp1.1\FollowersCompare.runtimeconfig.dev.json
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\bin\Debug\netcoreapp1.1\FollowersCompare.dll
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\bin\Debug\netcoreapp1.1\FollowersCompare.pdb
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\obj\Debug\netcoreapp1.1\FollowersCompare.csprojResolveAssemblyReference.cache
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\obj\Debug\netcoreapp1.1\FollowersCompare.AssemblyInfo.cs
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\obj\Debug\netcoreapp1.1\FollowersCompare.dll
+F:\Git\Projects\FollowersCompare\FollowersCompare\FollowersCompare\obj\Debug\netcoreapp1.1\FollowersCompare.pdb
